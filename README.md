@@ -147,8 +147,8 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [X] [Deep Learning - A Non-Technical Introduction](http://www.slideshare.net/AlfredPong1/deep-learning-a-nontechnical-introduction-69385936)
 
 ## Machine learning mastery
-- [ ] [The Machine Learning Mastery Method](http://machinelearningmastery.com/machine-learning-mastery-method/)
-- [ ] [Machine Learning for Programmers](http://machinelearningmastery.com/machine-learning-for-programmers/)
+- [X] [The Machine Learning Mastery Method](http://machinelearningmastery.com/machine-learning-mastery-method/)
+- [X] [Machine Learning for Programmers](http://machinelearningmastery.com/machine-learning-for-programmers/)
 - [ ] [Applied Machine Learning with Machine Learning Mastery](http://machinelearningmastery.com/start-here/)
 - [ ] [Python Machine Learning Mini-Course](http://machinelearningmastery.com/python-machine-learning-mini-course/)
 - [ ] [Machine Learning Algorithms Mini-Course](http://machinelearningmastery.com/machine-learning-algorithms-mini-course/)
